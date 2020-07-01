@@ -42,9 +42,3 @@ $("#destination-search-field").on("keypress", function (event) {
     }
 });
 
-// if (window.location.href.includes("http://")){
-//     //redirect to https version
-//     window.location.replace("https://go-ecoroute.com")
-// }
-
-if (location.protocol !== "https:"){ location.replace(window.location.href.replace("http:", "https:")); } 
