@@ -95,10 +95,9 @@ Future additional features include:
 * Flaticon.com icons made by [Pause08](https://www.flaticon.com/free-icon/airplane_1358770), [Surang](https://www.flaticon.com/authors/surang), [Smashicons](https://www.flaticon.com/authors/smashicons), [Freepik](https://www.flaticon.com/authors/freepik), and [Photo3Idea_Studio](https://www.flaticon.com/free-icon/airplane_2105232).
 
 ## Creators
-
-
-
-## License
+This application has been developed by
+- James Lee ([Github](https://github.com/titanian229) & [website](http://jamestlee.ca/))
+- Marcel Thiemann ([Github](https://github.com/cestmarcel) & [website](http://marcelthiemann.com/))
 
 [mockup]: https://titanian229.github.io/EcoRoute/assets/screenshots/mockup.png "Mockup"
 [main-page]: https://titanian229.github.io/EcoRoute/assets/screenshots/main-page.jpg "Main Page"
