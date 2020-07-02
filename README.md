@@ -38,12 +38,14 @@ Once you've entered both your destination and origin, all of the travel methods 
 ![Query page after input][query-after]
 
 
-After selecting all of the travel methods, "Get Route" brings you to a page showing you your route mapped out, the total distance, and weather information for your destination.
+After selecting all of the travel methods, "Get Route" brings you to a page showing you your route mapped out, the total distance, and weather information for your destination. The weather widget is responsive, meaning that it will only tell you about the weather's impact on walking or cycling if it would be an option for your route (so if the trip's distance is too long to walk it will not make a statement about walking).
 
 ![Results page top][results-top]
 
 
 At the bottom of the results page, you're shown the carbon footprint information for each choice.  Clicking the cards will change which route is mapped, and selecting the information button at the bottom of each brings you to the next page.
+
+EcoRoute will give you a recommendation on the most environmentally friendly way to get to your destination. In order to make a recommendation, the application takes into account the distance, weather, trip duration, and CO2 emission. It weighs the different options against each other to find out which travel option is the most environmentally friendly one for you—without forgetting about comfort and time efficiency.
 
 ![Results page bottom][results-cards]
 
@@ -83,9 +85,6 @@ This web application is built largely using Javscript, CSS, and HTML.
 
 ## Future goals
 Future additional features include:
-* Adding the carbon footprint of a human's breathing to the metric provided for walking and biking
-* Adding user responsiveness to the map to allow zooming and scrolling, as well as seeing turn by turn directions live
-* Adding additional user responsiveness to the weather recommendations for longer journeys
 * Adding in social media sharing for results of total savings
 * Use cookies to keep a running metric of total saved across journeys
 * Offer the option to send directions to mobile phone
